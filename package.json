@@ -1,0 +1,24 @@
+{
+  "name": "personal_portfolio",
+  "version": "1.0.0",
+  "description": "A personal \"About Me\" and portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revolution801/PersonalPortfolio.git"
+  },
+  "author": "Kent Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Revolution801/PersonalPortfolio/issues"
+  },
+  "homepage": "https://github.com/Revolution801/PersonalPortfolio#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  }
+}
